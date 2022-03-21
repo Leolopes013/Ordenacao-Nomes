@@ -1,0 +1,14 @@
+C:\Users\Lab_03_alu_18\Desktop\Ordenacao\Ordenacao\bin\Debug\Ordenacao.exe.config
+C:\Users\Lab_03_alu_18\Desktop\Ordenacao\Ordenacao\bin\Debug\Ordenacao.exe
+C:\Users\Lab_03_alu_18\Desktop\Ordenacao\Ordenacao\bin\Debug\Ordenacao.pdb
+C:\Users\Lab_03_alu_18\Desktop\Ordenacao\Ordenacao\obj\Debug\Ordenacao.csproj.CoreCompileInputs.cache
+C:\Users\Lab_03_alu_18\Desktop\Ordenacao\Ordenacao\obj\Debug\Ordenacao.exe
+C:\Users\Lab_03_alu_18\Desktop\Ordenacao\Ordenacao\obj\Debug\Ordenacao.pdb
+C:\Users\Lab_03_alu_18\Desktop\Ordenacao\Ordenacao\obj\Debug\Ordenacao.csprojAssemblyReference.cache
+C:\Users\Leo\Documents\Repositorios\Ordenacao\Ordenacao\bin\Debug\Ordenacao.exe.config
+C:\Users\Leo\Documents\Repositorios\Ordenacao\Ordenacao\bin\Debug\Ordenacao.exe
+C:\Users\Leo\Documents\Repositorios\Ordenacao\Ordenacao\bin\Debug\Ordenacao.pdb
+C:\Users\Leo\Documents\Repositorios\Ordenacao\Ordenacao\obj\Debug\Ordenacao.csproj.AssemblyReference.cache
+C:\Users\Leo\Documents\Repositorios\Ordenacao\Ordenacao\obj\Debug\Ordenacao.csproj.CoreCompileInputs.cache
+C:\Users\Leo\Documents\Repositorios\Ordenacao\Ordenacao\obj\Debug\Ordenacao.exe
+C:\Users\Leo\Documents\Repositorios\Ordenacao\Ordenacao\obj\Debug\Ordenacao.pdb
